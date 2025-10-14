@@ -1,0 +1,14 @@
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\bin\Debug\net9.0\InventarioLINQ.exe
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\bin\Debug\net9.0\InventarioLINQ.deps.json
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\bin\Debug\net9.0\InventarioLINQ.runtimeconfig.json
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\bin\Debug\net9.0\InventarioLINQ.dll
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\bin\Debug\net9.0\InventarioLINQ.pdb
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\InventarioLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\InventarioLINQ.AssemblyInfoInputs.cache
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\InventarioLINQ.AssemblyInfo.cs
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\InventarioLINQ.csproj.CoreCompileInputs.cache
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\InventarioLINQ.dll
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\refint\InventarioLINQ.dll
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\InventarioLINQ.pdb
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\InventarioLINQ.genruntimeconfig.cache
+C:\Users\eliam\Desktop\PROGRAMAS CSHARP\PROGRA II\InventarioLINQ\obj\Debug\net9.0\ref\InventarioLINQ.dll
