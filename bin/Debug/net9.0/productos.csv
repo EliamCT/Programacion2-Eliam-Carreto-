@@ -3,8 +3,4 @@ Id,Nombre,Categoria,Precio,Stock
 2,Azúcar,Granos,6.50,8
 3,Leche,Lácteos,10.75,15
 4,Panadería,Pan,4.25,5
-<<<<<<< HEAD
 5,Jugo,Bebidas,8.00,12
-=======
-5,Jugo,Bebidas,8.00,12
->>>>>>> b286440f0bd34422e7866e32c9d0bd5d5815e479
